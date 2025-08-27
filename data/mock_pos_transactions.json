@@ -1,0 +1,98 @@
+[
+  {
+    "id": "TXN_001",
+    "timestamp": "2024-01-15 09:15:32",
+    "items_scanned": 3,
+    "cashier_id": "CASH_001",
+    "total_amount": 24.67,
+    "items": ["Apple", "Bread", "Milk"]
+  },
+  {
+    "id": "TXN_002", 
+    "timestamp": "2024-01-15 09:32:18",
+    "items_scanned": 5,
+    "cashier_id": "CASH_002",
+    "total_amount": 47.89,
+    "items": ["Banana", "Cereal", "Orange Juice", "Eggs", "Butter"]
+  },
+  {
+    "id": "TXN_003",
+    "timestamp": "2024-01-15 10:45:21",
+    "items_scanned": 2,
+    "cashier_id": "CASH_001",
+    "total_amount": 12.34,
+    "items": ["Chips", "Soda"]
+  },
+  {
+    "id": "TXN_004",
+    "timestamp": "2024-01-15 11:22:45",
+    "items_scanned": 7,
+    "cashier_id": "CASH_003",
+    "total_amount": 78.92,
+    "items": ["Chicken", "Rice", "Vegetables", "Sauce", "Spices", "Onions", "Garlic"]
+  },
+  {
+    "id": "TXN_005",
+    "timestamp": "2024-01-15 12:15:33",
+    "items_scanned": 4,
+    "cashier_id": "CASH_002",
+    "total_amount": 31.56,
+    "items": ["Sandwich", "Water", "Fruit", "Cookies"]
+  },
+  {
+    "id": "TXN_006",
+    "timestamp": "2024-01-15 13:41:27",
+    "items_scanned": 6,
+    "cashier_id": "CASH_001",
+    "total_amount": 55.43,
+    "items": ["Pasta", "Tomato Sauce", "Cheese", "Salad", "Dressing", "Bread"]
+  },
+  {
+    "id": "TXN_007",
+    "timestamp": "2024-01-15 14:15:00",
+    "items_scanned": 3,
+    "cashier_id": "CASH_003",
+    "total_amount": 18.75,
+    "items": ["Coffee", "Sugar", "Cream"]
+  },
+  {
+    "id": "TXN_008",
+    "timestamp": "2024-01-15 15:33:12",
+    "items_scanned": 8,
+    "cashier_id": "CASH_002",
+    "total_amount": 89.67,
+    "items": ["Steak", "Potatoes", "Green Beans", "Wine", "Ice Cream", "Chocolate", "Nuts", "Berries"]
+  },
+  {
+    "id": "TXN_009",
+    "timestamp": "2024-01-15 16:52:44",
+    "items_scanned": 2,
+    "cashier_id": "CASH_001",
+    "total_amount": 9.99,
+    "items": ["Gum", "Mints"]
+  },
+  {
+    "id": "TXN_010",
+    "timestamp": "2024-01-15 17:28:35",
+    "items_scanned": 5,
+    "cashier_id": "CASH_003",
+    "total_amount": 42.18,
+    "items": ["Yogurt", "Granola", "Honey", "Banana", "Strawberries"]
+  },
+  {
+    "id": "TXN_011",
+    "timestamp": "2024-01-15 18:45:29",
+    "items_scanned": 4,
+    "cashier_id": "CASH_002",
+    "total_amount": 36.78,
+    "items": ["Pizza", "Salad", "Soda", "Garlic Bread"]
+  },
+  {
+    "id": "TXN_012",
+    "timestamp": "2024-01-15 19:12:56",
+    "items_scanned": 6,
+    "cashier_id": "CASH_001",
+    "total_amount": 63.45,
+    "items": ["Fish", "Vegetables", "Lemon", "Herbs", "Oil", "Salt"]
+  }
+]
